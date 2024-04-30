@@ -2,18 +2,18 @@
 SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it
 
 ## This project involved a comprehensive analysis of sales data for a company. I utilized my skills in SQL and Power BI to extract valuable insights:
-### Data Acquisition and Preparation: Leveraged SQL to efficiently load and prepare the data.
-### Data Cleaning and Wrangling: Utilized Power Query Editor within Power BI to perform data cleaning tasks such as currency normalization, handling invalid values, and addressing inconsistencies.
-### Data Transformation (ETL): Transformed the data within Power Query Editor to best suit the needs of the analysis and visualizations.
-### Interactive Dashboard Design: Developed a compelling and interactive dashboard in Power BI. This dashboard visualized key sales metrics, trends, and insights to empower data-driven decision making.
+#### Data Acquisition and Preparation: Leveraged SQL to efficiently load and prepare the data.
+#### Data Cleaning and Wrangling: Utilized Power Query Editor within Power BI to perform data cleaning tasks such as currency normalization, handling invalid values, and addressing inconsistencies.
+#### Data Transformation (ETL): Transformed the data within Power Query Editor to best suit the needs of the analysis and visualizations.
+#### Interactive Dashboard Design: Developed a compelling and interactive dashboard in Power BI. This dashboard visualized key sales metrics, trends, and insights to empower data-driven decision making.
 
 ## Technical Skills Highlighted:
 
-### SQL (Data Acquisition & Preparation)
-### Power BI (Data Cleaning, Transformation, & Visualization)
-### Data Cleaning Techniques (Normalization, Handling Invalid Values)
-### Data Transformation 
-### Dashboard Design
+#### SQL (Data Acquisition & Preparation)
+#### Power BI (Data Cleaning, Transformation, & Visualization)
+#### Data Cleaning Techniques (Normalization, Handling Invalid Values)
+#### Data Transformation 
+#### Dashboard Design
 
 # SQL QUERIES
 1. Show all customer records
